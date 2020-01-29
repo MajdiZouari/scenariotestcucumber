@@ -1,7 +1,7 @@
 # Created by MZouari on 01/29/2020
 
   # The feature that contains scenarios,  It’s a good idea to use a name similar to the file name.
-Feature: modifier_l_adresse_d_un_abonne
+Feature: adresse
   Tester que la modification de l'adresse d'un abonne est propagee sur ses contrats et qu'un mouvement de modification
   d'adresse est cree
 
